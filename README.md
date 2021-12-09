@@ -1,5 +1,5 @@
 # 12x2-Magnetic-Rack-Roy
-A Magnetic Rack for 12x2 PCR Tubes
+A 3D printed magnetic rack for 12x2 PCR tubes
 
 BOM:
 - 3x 5mmx20mmx40mm Block Magnet 
