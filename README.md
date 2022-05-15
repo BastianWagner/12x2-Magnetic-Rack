@@ -1,4 +1,4 @@
-# 12x2-Magnetic-Rack-Roy
+# 12x2-Magnetic-Rack
 A 3D printed magnetic rack for 12x2 PCR tubes
 
 BOM:
